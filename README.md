@@ -25,10 +25,7 @@ El propósito de este análisis es validar o refutar la percepción de los afici
 * `output/`: Visualizaciones finales del estudio en alta resolución.
 
 ## 📊 Descripción de los Datasets
-1.  **df_pl_goals:** Desglose de goles por tipo (Juego abierto, parado, contraataque).
-2.  **df_pl_shoots:** Volumen de tiros, tiros a puerta y métricas de regate.
-3.  **df_pl_fauls:** Métricas disciplinarias y de fricción.
-4.  **df_premier_final:** El dataset maestro consolidado con todas las variables normalizadas (2000-2026).
+1. **df_premier_final:** El dataset maestro consolidado con todas las variables normalizadas (2000-2026).
 
 ---
 ## 👷‍♂️ Sobre el Autor
