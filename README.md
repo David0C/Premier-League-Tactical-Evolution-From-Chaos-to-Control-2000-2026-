@@ -1,0 +1,2 @@
+# Premier-League-Tactical-Evolution-From-Chaos-to-Control-2000-2026-
+El propósito de este análisis es validar o refutar la percepción de los aficionados sobre la "robotización" del fútbol moderno. A través de la extracción de datos de **FBRef** y **WhoScored**, se evalúan métricas de agresión, control de posesión y eficiencia goleadora para identificar patrones de cambio en el ADN de la competición.
